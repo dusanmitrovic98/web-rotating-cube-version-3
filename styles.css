@@ -39,3 +39,4 @@ body {
 }
 
 @keyframes rotate {
+    0%   { transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg); }
