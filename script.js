@@ -19,3 +19,4 @@ for (let i = 0; i < 50; i++) {
     face.textContent = `Cube ${i + 1}`;
     cube.appendChild(face);
   }
+}
