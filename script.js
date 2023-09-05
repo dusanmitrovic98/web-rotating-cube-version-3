@@ -11,3 +11,4 @@ for (let i = 0; i < 50; i++) {
   cube.style.top = `${getRandom(0, 100)}%`;
   cube.style.animation = `rotate ${getRandom(5, 10)}s linear infinite`;
   scene.appendChild(cube);
+
