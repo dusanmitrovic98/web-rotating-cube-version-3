@@ -18,3 +18,4 @@ for (let i = 0; i < 50; i++) {
     face.style.transform = `rotateY(${j * 60}deg) translateZ(20px)`;
     face.textContent = `Cube ${i + 1}`;
     cube.appendChild(face);
+  }
